@@ -10,26 +10,26 @@ This project analyzes sales trends in an e-commerce business to provide **data-d
 - Detect **sales declines** and uncover potential causes.  
 
 Key Insights & Visualizations  
-**Sales Performance Over Time** – Monthly and yearly revenue trends.  
-**Top-Selling Products & Categories** – Best-performing items based on sales volume.  
-**Customer Purchase Behavior** – Order frequency, average order value, and peak buying periods.  
-**Geographical Sales Analysis** – Sales distribution across different regions.  
+- **Sales Performance Over Time** – Monthly and yearly revenue trends.  
+- **Top-Selling Products & Categories** – Best-performing items based on sales volume.  
+- **Customer Purchase Behavior** – Order frequency, average order value, and peak buying periods.  
+- **Geographical Sales Analysis** – Sales distribution across different regions.  
 
 Tools Used  
-**Tableau Public** – Data visualization & dashboard creation  
-**Excel/CSV Dataset** – Source for e-commerce sales data  
-**GitHub** – Project documentation and sharing  
+- **Tableau Public** – Data visualization & dashboard creation  
+- **Excel/CSV Dataset** – Source for e-commerce sales data  
+- **GitHub** – Project documentation and sharing  
 
 
 Dataset Information  
-**Source:** Open E-Commerce Sales Data  
-**Data Includes:** Order ID, Product Category, Sales Revenue, Customer Location, Order Date, and Quantity Sold.  
+- **Source:** Open E-Commerce Sales Data  
+- **Data Includes:** Order ID, Product Category, Sales Revenue, Customer Location, Order Date, and Quantity Sold.  
 
 Business Impact  
-**Inventory Optimization:** Stock levels adjusted based on demand trends.  
-**Revenue Growth:** Focused promotions on top-selling products.  
-**Improved Customer Targeting:** Personalized marketing campaigns using purchase insights.  
-**Enhanced Logistics Planning:** Efficient regional distribution based on sales density.  
+- **Inventory Optimization:** Stock levels adjusted based on demand trends.  
+- **Revenue Growth:** Focused promotions on top-selling products.  
+- **Improved Customer Targeting:** Personalized marketing campaigns using purchase insights.  
+- **Enhanced Logistics Planning:** Efficient regional distribution based on sales density.  
 
 Conclusion  
 This analysis provides **actionable insights** that help e-commerce businesses refine **sales strategies, enhance customer experience, and increase profitability**.  
